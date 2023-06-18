@@ -11,7 +11,7 @@ SL.|Topics| Day| Resources|
  07|[Strict Mode](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-8_Strict%20Mode.md)|02
  08|[IIFE, Arrow Function](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-9_IIFE%20(Immediately%20Invoked%20Function%20Expression).md)|02|
  09|[var vs let vs const](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-10_var%20vs%20let%20vs%20const.md) |02
- 10|[Closure](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-11_Closure.md)|02
+ 10|[Closure](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-11_Closure.md)|02|[Examples](https://github.com/Jahid-Iqbal/JavaScript-Tutorial/blob/main/Day%2002%20works.md)|
  12|[this Keyword](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-12_this%20keyword.md)|02
  13|[Modules](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-13_Modules.md)|03
  14|[if-else](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-19_if-else.md)|03
