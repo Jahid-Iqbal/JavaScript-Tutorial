@@ -9,7 +9,7 @@ SL.|Topics| Day| Resources|
  05|[Scope](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-6_Scope.md)|01|
  06|[eval() & with()](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-7_eval()%20%26%20with().md)|02|
  07|[Strict Mode](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-8_Strict%20Mode.md)|02
- 08|[IIFE, Arrow Function](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-9_IIFE%20(Immediately%20Invoked%20Function%20Expression).md)|2|
+ 08|[IIFE, Arrow Function](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-9_IIFE%20(Immediately%20Invoked%20Function%20Expression).md)|02|
  09|[var vs let vs const](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-10_var%20vs%20let%20vs%20const.md) |02
  10|[Closure](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-11_Closure.md)|02
  12|[this Keyword](https://github.com/Jahid-Iqbal/Short-Summary-of-You-Don-t-Know-JavaScript-by-Kyle-Simpson/blob/main/Topic-12_this%20keyword.md)|02
